@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Hare Krishna God Bless you </h1>
+   <h1> Thank you So much, Hare Krishna God Bless you </h1>
 
   
 </form>
